@@ -1,0 +1,26 @@
+{
+
+    "name": "MyDelay",
+    "version": "1.0.0",
+    "description": "A simple delay library for Arduino",    
+    "keywords": "delay, timing, Arduino",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/WestportAutomation/MyDelay.git"
+
+    },
+    "authors": [
+        {
+            "name": "Westport Automation",
+            "email": "WestportAutomation@shaw.ca",
+            "maintainer": true
+        }
+
+    ],
+    "license": "MIT",
+    "frameworks": 
+        {
+            "name": "arduino",
+            "platforms": "*"
+        }
+    }
