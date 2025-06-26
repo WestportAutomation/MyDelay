@@ -1,10 +1,10 @@
 {
-
     "name": "MyDelay",
-    "version": "1.0.0",
-    "description": "A simple delay library for Arduino",    
-    "keywords": "delay, timing, Arduino",
+    "version": "1.0.0",  
+    "description": "A delay action that doesn't block the main program from executing.",
+    "keywords": "delay, non-blocking, timing",
     "repository": {
+        "name": "MyDelay",
         "type": "git",
         "url": "https://github.com/WestportAutomation/MyDelay.git"
 
